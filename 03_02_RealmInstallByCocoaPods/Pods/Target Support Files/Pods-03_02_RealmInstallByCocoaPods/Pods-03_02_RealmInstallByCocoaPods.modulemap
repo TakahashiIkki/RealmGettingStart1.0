@@ -1,0 +1,6 @@
+framework module Pods_03_02_RealmInstallByCocoaPods {
+  umbrella header "Pods-03_02_RealmInstallByCocoaPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
